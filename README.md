@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend developer, creative person
 -----------------------------------
 
-* 🌍  I'm based in Belgorod, Russia
+* 🌍  I'm based in Moscow, Russia
 * ✉️  You can contact me at [nrogovskiyn@gmail.com](mailto:nrogovskiyn@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
